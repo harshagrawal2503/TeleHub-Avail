@@ -60,7 +60,7 @@ These technologies together ensure that **TelegramHub** offers a secure, decentr
 To set up the project locally:
 
 ```bash
-$ pnpm install
+$ npm install
 ```
 
 ### Running the Project
@@ -69,14 +69,14 @@ $ pnpm install
 To start the development server with hot-reload:
 
 ```bash
-$ pnpm run start:dev
+$ npm run start:dev
 ```
 
 #### Production Mode
 To run the project in production mode:
 
 ```bash
-$ pnpm run start:prod
+$ npm run start:prod
 ```
 
 ### Running Tests
@@ -84,19 +84,19 @@ $ pnpm run start:prod
 - **Unit Tests**:
 
   ```bash
-  $ pnpm run test
+  $ npm run test
   ```
 
 - **End-to-End Tests**:
 
   ```bash
-  $ pnpm run test:e2e
+  $ npm run test:e2e
   ```
 
 - **Test Coverage**:
 
   ```bash
-  $ pnpm run test:cov
+  $ npm run test:cov
   ```
 
 ## Resources
